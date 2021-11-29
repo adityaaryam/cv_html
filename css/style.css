@@ -1,0 +1,29 @@
+body {
+    background-color:#eaf6f6;
+    margin-left: 3%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+hr{
+    /* background-color: rgb(146, 45, 45); */
+    border-style:dotted none none;
+    border-color: rgb(97, 92, 94);
+    border-width: 5px;
+    /* height: 0px; */
+    width: 3%;
+    
+}
+h1,h3{
+    color: #57a8a8;
+}
+a:hover{
+    background-color: gold;
+}
+
+/* p::first-line{
+    color: red;
+} */
+/* ::selection{
+    color: red;
+    background-color: yellow;
+    cursor:pointer;
+} */
